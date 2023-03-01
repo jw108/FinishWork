@@ -1,0 +1,15 @@
+/Users/jw108/Desktop/FinishWork/bin/Debug/net6.0/FinishWork
+/Users/jw108/Desktop/FinishWork/bin/Debug/net6.0/FinishWork.deps.json
+/Users/jw108/Desktop/FinishWork/bin/Debug/net6.0/FinishWork.runtimeconfig.json
+/Users/jw108/Desktop/FinishWork/bin/Debug/net6.0/FinishWork.dll
+/Users/jw108/Desktop/FinishWork/bin/Debug/net6.0/FinishWork.pdb
+/Users/jw108/Desktop/FinishWork/obj/Debug/net6.0/FinishWork.csproj.AssemblyReference.cache
+/Users/jw108/Desktop/FinishWork/obj/Debug/net6.0/FinishWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jw108/Desktop/FinishWork/obj/Debug/net6.0/FinishWork.AssemblyInfoInputs.cache
+/Users/jw108/Desktop/FinishWork/obj/Debug/net6.0/FinishWork.AssemblyInfo.cs
+/Users/jw108/Desktop/FinishWork/obj/Debug/net6.0/FinishWork.csproj.CoreCompileInputs.cache
+/Users/jw108/Desktop/FinishWork/obj/Debug/net6.0/FinishWork.dll
+/Users/jw108/Desktop/FinishWork/obj/Debug/net6.0/refint/FinishWork.dll
+/Users/jw108/Desktop/FinishWork/obj/Debug/net6.0/FinishWork.pdb
+/Users/jw108/Desktop/FinishWork/obj/Debug/net6.0/FinishWork.genruntimeconfig.cache
+/Users/jw108/Desktop/FinishWork/obj/Debug/net6.0/ref/FinishWork.dll
